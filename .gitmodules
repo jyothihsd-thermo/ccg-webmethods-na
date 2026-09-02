@@ -1,3 +1,6 @@
 [submodule "ccg-webmethods-na-b2b"]
 	path = ccg-webmethods-na-b2b
 	url = https://github.com/jyothihsd-thermo/ccg-webmethods-na.git
+[submodule "ccg-webmethods-na-b2c"]
+	path = ccg-webmethods-na-b2c
+	url = https://github.com/jyothihsd-thermo/ccg-webmethods-na.git
