@@ -4,3 +4,6 @@
 [submodule "ccg-webmethods-na-b2c"]
 	path = ccg-webmethods-na-b2c
 	url = https://github.com/jyothihsd-thermo/ccg-webmethods-na.git
+[submodule "ccg-webmethods-na-log"]
+	path = ccg-webmethods-na-log
+	url = https://github.com/jyothihsd-thermo/ccg-webmethods-na.git
