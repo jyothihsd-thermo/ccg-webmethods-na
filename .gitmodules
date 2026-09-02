@@ -7,3 +7,6 @@
 [submodule "ccg-webmethods-na-log"]
 	path = ccg-webmethods-na-log
 	url = https://github.com/jyothihsd-thermo/ccg-webmethods-na.git
+[submodule "ccg-webmethods-na-a2a1"]
+	path = ccg-webmethods-na-a2a1
+	url = https://github.com/jyothihsd-thermo/ccg-webmethods-na.git
